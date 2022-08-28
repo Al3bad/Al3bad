@@ -1,6 +1,6 @@
 <h3>Hi 👋, I'm Abdullah</h3>
 
-- 👷🏼‍♂️ Computer & Network Engineer (in progress...)
+- 👷🏼‍♂️ Computer & Network Engineer
 - 👨🏻‍💻 Full-stack Web Developer
 - 🖤 The terminal is my best friend
 
