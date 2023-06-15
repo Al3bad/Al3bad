@@ -2,6 +2,7 @@
 
 - 👷🏼‍♂️ Computer & Network Engineer
 - 👨🏻‍💻 Full-stack Web Developer
+- 👨🏻‍💻 IT Specialist (in progress)
 - 🖤 The terminal is my best friend
 
 <h3>Languages & Technologies I usually use</h3>
