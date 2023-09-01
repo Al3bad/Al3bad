@@ -18,6 +18,6 @@ jobs:
           REPOSITORY: Al3bad/Al3bad
           TIME_RANGE: all_time
           SHOW_TOTAL: true
-          LANG_COUNT: 5
+          LANG_COUNT: 10
           BLOCKS: ->
           CODE_LANG: python
