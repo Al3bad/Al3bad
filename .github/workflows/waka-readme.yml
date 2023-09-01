@@ -16,6 +16,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           REPOSITORY: Al3bad/Al3bad
+          TIME_RANGE: all_time
           SHOW_TOTAL: true
           LANG_COUNT: 5
           BLOCKS: ->
