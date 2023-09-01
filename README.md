@@ -88,6 +88,15 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=al3bad&theme=transparent&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
+
+```txt
+Java             21 hrs 55 mins  ████████████████████░░░░░   80.65 %
+Bash             2 hrs 8 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
+Lua              1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+Python           51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+Assembly         27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+```
+
 <!--END_SECTION:waka-->
 
 <p>
