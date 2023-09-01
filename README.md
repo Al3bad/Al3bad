@@ -90,18 +90,15 @@
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 2,136 hrs 10 mins
+From: 01 August 2023 - To: 31 August 2023
 
-JavaScript         735 hrs 17 mins >>>>>>>>-----------------   33.84 %
-V                  294 hrs 41 mins >>>----------------------   13.56 %
-TypeScript         209 hrs 10 mins >>-----------------------   09.63 %
-Python             134 hrs 58 mins >>-----------------------   06.21 %
-JSX                91 hrs 5 mins   >------------------------   04.19 %
-MATLAB             80 hrs 53 mins  >------------------------   03.72 %
-SCSS               67 hrs 20 mins  >------------------------   03.10 %
-CSS                66 hrs 32 mins  >------------------------   03.06 %
-Java               53 hrs 31 mins  >------------------------   02.46 %
-Vue.js             44 hrs 56 mins  >------------------------   02.07 %
+Total Time: 62 hrs 4 mins
+
+Java             48 hrs 38 mins  >>>>>>>>>>>>>>>>>>>>-----   78.29 %
+Lua              4 hrs 5 mins    >>-----------------------   06.59 %
+Bash             3 hrs 53 mins   >>-----------------------   06.27 %
+Python           2 hrs 31 mins   >------------------------   04.07 %
+Markdown         1 hr 16 mins    >------------------------   02.06 %
 ```
 
 <!--END_SECTION:waka-->
