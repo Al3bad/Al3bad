@@ -18,7 +18,7 @@ jobs:
           REPOSITORY: Al3bad/Al3bad
           SHOW_TITLE: true
           SHOW_TOTAL: true
-          TIME_RANGE: last_30_days
+          TIME_RANGE: last_6_months
           LANG_COUNT: 5
           BLOCKS: ->
           CODE_LANG: python
