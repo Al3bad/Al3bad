@@ -90,13 +90,13 @@
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 27 hrs 10 mins
+Total Time: 2,136 hrs 10 mins
 
-Java             21 hrs 55 mins  >>>>>>>>>>>>>>>>>>>>-----   80.65 %
-Bash             2 hrs 8 mins    >>-----------------------   07.85 %
-Lua              1 hr 5 mins     >------------------------   04.01 %
-Python           51 mins         >------------------------   03.14 %
-Assembly         27 mins         -------------------------   01.70 %
+JavaScript         735 hrs 17 mins >>>>>>>>-----------------   33.84 %
+V                  294 hrs 41 mins >>>----------------------   13.56 %
+TypeScript         209 hrs 10 mins >>-----------------------   09.63 %
+Python             134 hrs 58 mins >>-----------------------   06.21 %
+JSX                91 hrs 5 mins   >------------------------   04.19 %
 ```
 
 <!--END_SECTION:waka-->
