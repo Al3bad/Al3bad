@@ -10,15 +10,15 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 13 March 2023 - To: 11 September 2023
+From: 14 March 2023 - To: 12 September 2023
 
-Total Time: 297 hrs 27 mins
+Total Time: 297 hrs 12 mins
 
-TypeScript       103 hrs 39 mins >>>>>>>>>----------------   34.77 %
-Java             76 hrs 57 mins  >>>>>>-------------------   25.81 %
-Python           73 hrs 28 mins  >>>>>>-------------------   24.65 %
-Lua              7 hrs 16 mins   >------------------------   02.44 %
+TypeScript       103 hrs 39 mins >>>>>>>>>----------------   34.81 %
+Java             80 hrs 43 mins  >>>>>>>------------------   27.10 %
+Python           70 hrs 49 mins  >>>>>>-------------------   23.78 %
 SCSS             6 hrs 49 mins   >------------------------   02.29 %
+Lua              6 hrs 38 mins   >------------------------   02.23 %
 ```
 
 <!--END_SECTION:waka-->
