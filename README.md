@@ -10,15 +10,15 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 24 July 2023 - To: 22 January 2024
+From: 25 July 2023 - To: 23 January 2024
 
-Total Time: 451 hrs 48 mins
+Total Time: 458 hrs
 
-Java                       162 hrs 8 mins  >>>>>>>>>----------------   35.69 %
-C#                         134 hrs 30 mins >>>>>>>------------------   29.61 %
-Swift                      48 hrs 38 mins  >>>----------------------   10.71 %
-TypeScript                 20 hrs 36 mins  >------------------------   04.54 %
-CSHTML                     16 hrs 6 mins   >------------------------   03.55 %
+Java                       161 hrs 2 mins  >>>>>>>>>----------------   34.96 %
+C#                         141 hrs 48 mins >>>>>>>>-----------------   30.78 %
+Swift                      48 hrs 38 mins  >>>----------------------   10.56 %
+TypeScript                 20 hrs 36 mins  >------------------------   04.47 %
+CSHTML                     16 hrs 25 mins  >------------------------   03.57 %
 ```
 
 <!--END_SECTION:waka-->
