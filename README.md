@@ -10,15 +10,15 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 29 October 2023 - To: 28 April 2024
+From: 30 October 2023 - To: 29 April 2024
 
-Total Time: 511 hrs 42 mins
+Total Time: 513 hrs 3 mins
 
-C#                         191 hrs 58 mins >>>>>>>>>----------------   37.13 %
-TypeScript                 88 hrs 55 mins  >>>>---------------------   17.20 %
-Python                     36 hrs 4 mins   >>-----------------------   06.98 %
-SCSS                       34 hrs 14 mins  >>-----------------------   06.62 %
-Swift                      29 hrs 27 mins  >------------------------   05.70 %
+C#                         191 hrs 58 mins >>>>>>>>>----------------   37.03 %
+TypeScript                 89 hrs 3 mins   >>>>---------------------   17.18 %
+Python                     36 hrs 4 mins   >>-----------------------   06.96 %
+SCSS                       34 hrs 14 mins  >>-----------------------   06.60 %
+Swift                      29 hrs 27 mins  >------------------------   05.68 %
 ```
 
 <!--END_SECTION:waka-->
