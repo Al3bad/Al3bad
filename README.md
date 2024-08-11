@@ -10,15 +10,15 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 08 February 2024 - To: 08 August 2024
+From: 09 February 2024 - To: 09 August 2024
 
-Total Time: 534 hrs 24 mins
+Total Time: 532 hrs 2 mins
 
-TypeScript                 147 hrs 14 mins >>>>>>>------------------   27.40 %
-JavaScript                 107 hrs 54 mins >>>>>--------------------   20.08 %
-Python                     92 hrs 29 mins  >>>>---------------------   17.21 %
-Lua                        38 hrs 44 mins  >>-----------------------   07.21 %
-SCSS                       35 hrs 31 mins  >>-----------------------   06.61 %
+TypeScript                 146 hrs 20 mins >>>>>>>------------------   27.35 %
+JavaScript                 107 hrs 49 mins >>>>>--------------------   20.15 %
+Python                     92 hrs 29 mins  >>>>---------------------   17.29 %
+Lua                        38 hrs 44 mins  >>-----------------------   07.24 %
+SCSS                       34 hrs 7 mins   >>-----------------------   06.38 %
 ```
 
 <!--END_SECTION:waka-->
