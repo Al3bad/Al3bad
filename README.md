@@ -13,14 +13,14 @@ Welcome to my nerdy playground!
 <!--START_SECTION:waka-->
 
 ```python
-From: 26 April 2024 - To: 25 October 2024
+From: 27 April 2024 - To: 26 October 2024
 
-Total Time: 743 hrs 52 mins
+Total Time: 743 hrs 59 mins
 
-TypeScript        358 hrs 13 mins >>>>>>>>>>>>-------------   48.00 %
+TypeScript        362 hrs 16 mins >>>>>>>>>>>>-------------   48.54 %
 JavaScript        187 hrs 29 mins >>>>>>-------------------   25.12 %
-Python            69 hrs 3 mins   >>-----------------------   09.25 %
-Lua               39 hrs 39 mins  >------------------------   05.32 %
+Python            67 hrs 9 mins   >>-----------------------   09.00 %
+Lua               39 hrs 19 mins  >------------------------   05.27 %
 CSS               13 hrs 3 mins   -------------------------   01.75 %
 ```
 
