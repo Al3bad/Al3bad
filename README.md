@@ -13,15 +13,15 @@ Welcome to my nerdy playground!
 <!--START_SECTION:waka-->
 
 ```python
-From: 12 July 2025 - To: 10 January 2026
+From: 13 July 2025 - To: 11 January 2026
 
-Total Time: 30 hrs 16 mins
+Total Time: 24 hrs 43 mins
 
-JavaScript   12 hrs 16 mins  >>>>>>>>>>---------------   40.46 %
-EJS          6 hrs 40 mins   >>>>>>-------------------   22.02 %
-C#           2 hrs 17 mins   >>-----------------------   07.58 %
-Markdown     1 hr 57 mins    >>-----------------------   06.44 %
-Python       1 hr 43 mins    >------------------------   05.67 %
+JavaScript   8 hrs           >>>>>>>>-----------------   32.33 %
+EJS          6 hrs 25 mins   >>>>>>-------------------   25.94 %
+C#           2 hrs 17 mins   >>-----------------------   09.28 %
+Python       1 hr 43 mins    >>-----------------------   06.94 %
+CSS          1 hr 10 mins    >------------------------   04.72 %
 ```
 
 <!--END_SECTION:waka-->
