@@ -13,15 +13,15 @@ Welcome to my nerdy playground!
 <!--START_SECTION:waka-->
 
 ```python
-From: 29 September 2025 - To: 30 March 2026
+From: 30 September 2025 - To: 31 March 2026
 
-Total Time: 14 hrs 7 mins
+Total Time: 16 hrs 26 mins
 
-C            8 hrs 26 mins         >>>>>>>>>>>>>>>----------   59.64 %
-Python       1 hr 44 mins          >>>----------------------   12.29 %
-TypeScript   39 mins               >------------------------   04.63 %
-JavaScript   39 mins               >------------------------   04.60 %
-Lua          33 mins               >------------------------   03.94 %
+C            10 hrs 45 mins        >>>>>>>>>>>>>>>>---------   65.31 %
+Python       1 hr 44 mins          >>>----------------------   10.56 %
+TypeScript   39 mins               >------------------------   03.98 %
+JavaScript   39 mins               >------------------------   03.96 %
+Lua          33 mins               >------------------------   03.38 %
 ```
 
 <!--END_SECTION:waka-->
