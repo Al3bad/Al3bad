@@ -13,7 +13,7 @@ Welcome to my nerdy playground!
 <!--START_SECTION:waka-->
 
 ```python
-From: 04 December 2025 - To: 04 June 2026
+From: 06 December 2025 - To: 06 June 2026
 
 Total Time: 15 hrs 1 min
 
