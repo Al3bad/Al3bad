@@ -13,15 +13,15 @@ Welcome to my nerdy playground!
 <!--START_SECTION:waka-->
 
 ```python
-From: 24 January 2026 - To: 25 July 2026
+From: 25 January 2026 - To: 26 July 2026
 
-Total Time: 15 hrs 9 mins
+Total Time: 14 hrs 43 mins
 
-C            11 hrs 25 mins        >>>>>>>>>>>>>>>>>>>------   75.36 %
-Python       1 hr 35 mins          >>>----------------------   10.54 %
-JavaScript   35 mins               >------------------------   03.90 %
-TOML         23 mins               >------------------------   02.56 %
-JSON         12 mins               -------------------------   01.42 %
+C           11 hrs 25 mins        >>>>>>>>>>>>>>>>>>>------   77.54 %
+Python      1 hr 59 mins          >>>----------------------   13.55 %
+TOML        23 mins               >------------------------   02.64 %
+YAML        10 mins               -------------------------   01.24 %
+Markdown    9 mins                -------------------------   01.08 %
 ```
 
 <!--END_SECTION:waka-->
