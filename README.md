@@ -13,7 +13,7 @@ Welcome to my nerdy playground!
 <!--START_SECTION:waka-->
 
 ```python
-From: 21 February 2026 - To: 22 August 2026
+From: 22 February 2026 - To: 23 August 2026
 
 Total Time: 21 hrs 6 mins
 
